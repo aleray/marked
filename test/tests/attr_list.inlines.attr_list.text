@@ -1,0 +1,29 @@
+**strong**
+**strong**{: #id }
+
+*empasized*
+*empasized*{: .class }
+
+`code`
+`code`{: key=value }
+
+~~deleted~~
+~~deleted~~{: #id2 }
+
+[This link](http://example.net/)
+[This link](http://example.net/){: .class }
+
+![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](/path/to/img.jpg "Optional title"){: .class }
+
+<http://osp.constantvzw.org>
+<http://osp.constantvzw.org>{: .class }
+
+[an example][id]{: .class}
+[an example][id]{: .class}
+
+[Daring Fireball][]
+[Daring Fireball][]{: .class }
+
+[id]: http://example.com/  "Optional Title Here"
+[Daring Fireball]: http://daringfireball.net/
